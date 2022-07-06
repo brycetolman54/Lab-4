@@ -1,3 +1,3 @@
-C:/Users/bat20/CLionProjects/LAb-4/cmake-build-debug/CMakeFiles/LAb_4.dir
-C:/Users/bat20/CLionProjects/LAb-4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/bat20/CLionProjects/LAb-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bat20/CLionProjects/Lab-4/cmake-build-debug/CMakeFiles/LAb_4.dir
+C:/Users/bat20/CLionProjects/Lab-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bat20/CLionProjects/Lab-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
